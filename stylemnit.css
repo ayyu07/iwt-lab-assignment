@@ -1,0 +1,145 @@
+body{
+        margin-top: 0px;
+        margin-left: 260px;
+        margin-right: 260px;
+        background-color: mintcream;
+}
+.slideshow{
+    background-image: linear-gradient(#93b7ff,white,#93b7ff);
+    height:260px;
+}
+.headerpic{
+    padding-left: 150px;
+}
+.headerr{
+    padding-left: 110px;
+}
+.lin{
+    padding-left: 250px;
+}
+.imag{
+    height:100px;
+}
+.buttton{
+    position: relative;
+    left:275px;
+    background-color: gray;
+}
+.buttton:hover{
+    background-color: white;
+}
+.pic{
+    height:30px;
+}
+.links2{
+    color:blue;
+    font-variant: small-caps;
+    font-size: 16px;
+}
+.links{
+    text-decoration: none;
+    color: blue;
+    font-size: 20px;
+}
+.table1{
+    background-image: linear-gradient(#93b7ff,white);
+}
+.lin3{
+    padding-left: 85px;
+}
+td{
+    padding-top: 0px;
+    font-weight: bolder;
+    font-size: 22px;
+    font-family: serif;
+}
+#date{
+    color: maroon;
+    padding-left: 180px;
+}
+.buttons{
+   color: white;
+   background-image: linear-gradient(rgb(12, 8, 245),white);
+   height: 30px;
+   font-size: 12px;
+   text-shadow:1px 1px 1px #424242;
+   width: 152px;
+}
+.padl{
+    padding-left: 40px;
+}
+.buttons1{
+    color: white;
+    background-image: linear-gradient(rgb(12, 8, 245),white);
+    height: 30px;
+    font-size: 12px;
+    text-shadow:1px 1px 1px #424242;
+    width: 110px;
+ }
+ .buttonpad{
+     margin-left:66px;
+ }
+.buttons2{
+    color: white;
+    background-image: linear-gradient(rgb(12, 8, 245),white);
+    height: 26px;
+    text-shadow:1px 1px 1px #424242;
+    width: 115px;
+    font-size: 12px;
+    margin-bottom: 0px;
+ }
+ h3{
+     text-align: center;
+     margin-bottom: 0px;
+ }
+ .buttons4{
+    color: white;
+    background-image: linear-gradient(rgb(12, 8, 245),white);
+    height: 26px;
+    text-shadow:1px 1px 1px #424242;
+    width: 113px;
+    font-size: 12px;
+    margin-top: 50px;
+ }
+.tab{
+    margin-left: 40px;
+    margin-top:0px;
+    height:200px;
+    width:400px;
+    border: 1px solid blue;
+}
+.h2{
+    text-decoration: none;
+    color:red;
+    margin-left: 358px;
+}
+ .buttons4:hover{
+    background-image: linear-gradient(gray,blue);
+}
+hr{
+    border: 3px solid black;
+}
+ .buttons1:hover{
+    background-image: linear-gradient(gray,blue);
+}
+.buttons2:hover{
+    background-image: linear-gradient(gray,blue);
+}
+.buttons:hover{
+    background-image: linear-gradient(gray,blue);
+}
+.bottom{
+    background-image: linear-gradient(white,#93b7ff,white,#93b7ff);
+}
+.bottom-button{
+    position: relative;
+    top:0px;
+    left:300px;
+}
+.down{
+    text-decoration: none;
+    margin-left: 80px;
+}
+.down1{
+    text-decoration: none;
+}
